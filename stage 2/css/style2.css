@@ -1,0 +1,43 @@
+.mainHeading{
+    text-align: center;
+    padding-top: 6.3em;
+    margin-top: 4px;
+}
+.row .col-3{
+    font-size: 100px;
+    font-weight: 600;
+    font-family: 'montserrat',sans-serif;
+    padding: 2px;
+    height: 250px;
+    float: left;
+}
+.col-17{
+    padding: 10px;
+    font-size: 100px;
+}
+.text-center .img-fluid{
+    padding: 5px;
+    height: 200px;
+    width: 400px;
+}
+a{
+    font-size: 20px;
+}
+.mt-4 a:hover,.mt-2 a:hover{
+color: rgb(112, 15, 104);
+
+}
+.col-4 .img-fluid{
+    padding: 5px;
+height: 300px;
+width: 500px;
+}
+.mt-3{
+    float: left;
+    padding: 10px;
+    font-size: larger;
+    
+}
+.mt-2 a, .mt-4 a{
+font-size: 25px;
+}
